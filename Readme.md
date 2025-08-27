@@ -2,7 +2,6 @@
 <h3 align="center">AI/ML Enthusiast | Web & Software Developer | BTech IT</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:varshankumaravk@gmail.com">
@@ -94,7 +93,7 @@
 
 - 📧 Email: [varshankumaravk@gmail.com](mailto:varshankumaravk@gmail.com)  
 - 🌐 Portfolio: [YOURPORTFOLIO.com](https://YOURPORTFOLIO.com)  
-- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- 💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN]
 
 ---
 
