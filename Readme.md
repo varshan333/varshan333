@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Varshan A V K</h1>
+<h1 align="center">Hi 👋, I'm Varshan </h1>
 <h3 align="center">AI/ML Enthusiast | Web & Software Developer | BTech IT</h3>
 
 <p align="center">
